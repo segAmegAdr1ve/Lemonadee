@@ -15,9 +15,14 @@
   -->
 <resources>
     <string name="app_name">Lemonade</string>
-    <string name="lemon_select">Click to select a lemon!</string>
-    <string name="lemon_squeeze">Click to juice the lemon!</string>
-    <string name="lemon_drink">Click to drink your lemonade!</string>
-    <string name="lemon_empty_glass">Click to start again!</string>
-    <string name="squeeze_count">Squeeze count: %1$d, keep squeezing!</string>
+    <string name="lemon_select">Нажмите чтобы выбрать лимон!</string>
+    <!--<string name="lemon_select">Click to select a lemon!</string>-->
+    <string name="lemon_squeeze">Нажмите чтобы выжать лимон!</string>
+    <!--<string name="lemon_squeeze">Click to juice the lemon!</string>-->
+    <string name="lemon_drink">Нажмите чтобы выпить лимонад!</string>
+    <!--<string name="lemon_drink">Click to drink your lemonade!</string>-->
+    <string name="lemon_empty_glass">Нажмите чтобы начать заново!</string>
+    <!--<string name="lemon_empty_glass">Click to start again!</string>-->
+    <string name="squeeze_count">Счетчик выжиманий: %1$d, жми!</string>
+    <!--<string name="squeeze_count">Squeeze count: %1$d, keep squeezing!</string>-->
 </resources>
